@@ -1,0 +1,11 @@
+/home/noroot/RiderProjects/SPP/SPP/bin/Debug/netcoreapp2.2/SPP.deps.json
+/home/noroot/RiderProjects/SPP/SPP/bin/Debug/netcoreapp2.2/SPP.runtimeconfig.json
+/home/noroot/RiderProjects/SPP/SPP/bin/Debug/netcoreapp2.2/SPP.runtimeconfig.dev.json
+/home/noroot/RiderProjects/SPP/SPP/bin/Debug/netcoreapp2.2/SPP.dll
+/home/noroot/RiderProjects/SPP/SPP/bin/Debug/netcoreapp2.2/SPP.pdb
+/home/noroot/RiderProjects/SPP/SPP/obj/Debug/netcoreapp2.2/SPP.csprojAssemblyReference.cache
+/home/noroot/RiderProjects/SPP/SPP/obj/Debug/netcoreapp2.2/SPP.csproj.CoreCompileInputs.cache
+/home/noroot/RiderProjects/SPP/SPP/obj/Debug/netcoreapp2.2/SPP.AssemblyInfoInputs.cache
+/home/noroot/RiderProjects/SPP/SPP/obj/Debug/netcoreapp2.2/SPP.AssemblyInfo.cs
+/home/noroot/RiderProjects/SPP/SPP/obj/Debug/netcoreapp2.2/SPP.dll
+/home/noroot/RiderProjects/SPP/SPP/obj/Debug/netcoreapp2.2/SPP.pdb

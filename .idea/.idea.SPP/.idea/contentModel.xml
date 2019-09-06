@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_SPP.162792139.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="SPP" t="IncludeRecursive">
+        <e p="L1" t="Include">
+          <e p="L1.cs" t="Include" />
+          <e p="PCTaskQueue.cs" t="Include" />
+          <e p="TaskQueue.cs" t="Include" />
+        </e>
+        <e p="L2" t="Include">
+          <e p="L2.cs" t="Include" />
+        </e>
+        <e p="L3" t="Include">
+          <e p="L3.cs" t="Include" />
+          <e p="Mutex.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SPP.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="SPP.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="SPP.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
